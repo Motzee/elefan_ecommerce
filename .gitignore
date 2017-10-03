@@ -1,3 +1,5 @@
+nbproject/
+
 # Cache and logs (Symfony2)
 /app/cache/*
 /app/logs/*
@@ -53,3 +55,4 @@
 !var/sessions/.gitkeep
 !var/SymfonyRequirements.php
 /vendor/
+/nbproject/private/
