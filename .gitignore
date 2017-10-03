@@ -39,3 +39,17 @@
 
 # Backup entities generated with doctrine:generate:entities command
 **/Entity/*~
+
+# File from symfony added :
+/.web-server-pid
+/app/config/parameters.yml
+/phpunit.xml
+/var/*
+!/var/cache
+/var/cache/*
+!/var/logs
+/var/logs/*
+!/var/sessions
+!var/sessions/.gitkeep
+!var/SymfonyRequirements.php
+/vendor/
