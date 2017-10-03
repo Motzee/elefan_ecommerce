@@ -2,7 +2,7 @@
 A training project for an ecommerce website with Symfony framework
 
 
-##Presentation
+## Presentation
 
 *(fictive)Silent partner : [L'éléfàn](https://lelefan.org "website of the association L'éléfàn"), an association from Grenoble
 *target users : clients from the association and people from Grenoble
@@ -12,17 +12,18 @@ nb : it's not important to have a payment system because there is no delivery at
 *Most important functionnality : order products placed in the basket
 *"I'm special !" : L'éléfàn is a local association, based on a participative project, with local growers and producers for quality and tasty products, respecting environnment and a honest price. They ask for transparency and human contact, website need to reflect all these things.
 *Core-user journey : each rectangle is a vue, each arrow is an action for the user, in purple utility of each vue, and in green clues to guide navigation.
-![schema of the core-user journey to make an order](https://raw.githubusercontent.com/Motzee/elefan_ecommerce/master/attachments/elefan_coreuser%20journey.jpg)
+
+![schema of the core-user journey to make an order](https://raw.githubusercontent.com/Motzee/elefan_ecommerce/master/attachments/elefan_coreuser%20journey.jpg "make an order")
 
 
-##Conception
+## Conception
 
-###Users
+### Users
 
-###Functionnalities needed
-
-
-###Functionnal sketchs of the website
+### Functionnalities needed
 
 
-###class, DB and techs needed
+### Functionnal sketchs of the website
+
+
+### class, DB and techs needed
