@@ -20,6 +20,12 @@ nb : it's not important to have a payment system because there is no delivery at
 
 ### Users
 
+* users
+    * from far away : they only need to be informed about similar associations near them (redirection ?)
+    * from Grenoble and around : they need informations about what it is and how to adhere to L'éléfàn (the current website do it well : redirection ?)
+    * members of the association (=clients) : they need to order (and manage their orders)
+* L'éléfàn staff need to manage stocks, products and members
+
 ### Functionnalities needed
 
 
